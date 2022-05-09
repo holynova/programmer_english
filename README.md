@@ -15,10 +15,14 @@
 
 # 高级词汇
 - leverage
+- overall
+- implement
 
 
 # 短的
 - good to know
+- please proceed
+- the number is not align
 
 
 # 缩写
@@ -33,6 +37,18 @@
 # 会议
 - thank you so much for attending the x meeting this morning
 - the meeting minutes are summarized as below
+- are we waiting for more people or can we start
+- I am going to share my screen, let me know if you can see it clearly
+- before we start, let me go through the meeting agenda
+- feel free to interrupt if you have any questions
+
+
+# 招呼
+- hi tom, good to see you, how are you
+- I am ok yeah, how about you?
+- I am doing great, thanks for asking
+
+
 
 
 # 拒绝
@@ -55,3 +71,5 @@ sorry I can't be of more help
 - graph 图表
 - anyone has any question so far
 - latency 延迟
+
+
